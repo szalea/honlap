@@ -1,0 +1,15 @@
+<link rel="stylesheet" href="lea.css">
+<body>
+    Szabó Lea
+    született: 2007.04.03
+
+    <style>
+        body {
+            font-size: medium;
+            text-align: center;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            text-size-adjust: 8px;
+        }
+    </style>
+ 
+</body>
