@@ -1,0 +1,20 @@
+<body>
+    <input type="number" onchange="a=Number(this.value)">
+    <input type="number" onchange="b=Number(this.value)">
+    <button onclick="alert(a+b)">Számol</button>
+</body>
+
+<div id="x">   
+</div>
+<script>
+    a=0, b=0, c=1
+    function f(a, b) {document.getElementById("x").innerHTML="az eredmény: S(a * b), a c meg: S(c)"}
+        
+</script>
+<style>
+    input {
+        margin: 10px;
+    }
+       
+    
+</style>
