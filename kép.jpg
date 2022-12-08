@@ -1,5 +1,5 @@
 body{
-  background-image: url("9mq26d.jpg");
+  background-image: url("kép.jpg");
   background-size:cover ;
   background: position 50px; ;
 }
